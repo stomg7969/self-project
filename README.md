@@ -1,3 +1,9 @@
+Self-project
+- NYC subway greeter.
+- Has weather feature
+- Has todo list
+- One page + no scroll website for mobiles.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
